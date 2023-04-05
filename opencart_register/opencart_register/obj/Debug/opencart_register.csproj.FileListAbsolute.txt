@@ -1,0 +1,3 @@
+C:\Users\Administrator\source\repos\opencart_register\opencart_register\obj\Debug\opencart_register.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\opencart_register\opencart_register\obj\Debug\opencart_register.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\opencart_register\opencart_register\obj\Debug\opencart_register.csproj.CoreCompileInputs.cache
